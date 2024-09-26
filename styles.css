@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+
+.Title {
+    color: blue;
+    text-align: center;
+}
+
+.Homemade_Recipes_URLS {
+    text-align: center;
+    color: red;
+}
+
+.First_URL {
+    color: white;
+    text-align: center;
+}
+
+.Second_URL {
+    text-align: center;
+    color: white;
+}
+
+.Third_URL{
+    text-align: center;
+    color: white;
+}
+
+.Websites_URLS {
+    text-align: center;
+    color: green
+}
+
+.Forth_URL {
+    color: white;
+    text-align: center;
+}
